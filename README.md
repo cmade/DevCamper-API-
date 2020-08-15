@@ -1,2 +1,2 @@
-# DevCamper-API-
+# DevCamper API
 Creating an API using NodeJS
